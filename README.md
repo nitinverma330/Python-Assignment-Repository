@@ -22,5 +22,4 @@ A comprehensive collection of Python assignments, coursework tasks, and practica
 
 ## 📁 Folder Structure
 
-- `py/`: Original coursework assignment screenshots and reference materials.
 - `*.ipynb`: Interactive Jupyter Notebooks with problem statements, solutions, and sample outputs.
