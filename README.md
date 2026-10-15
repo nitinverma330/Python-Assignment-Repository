@@ -12,8 +12,7 @@ A comprehensive collection of Python assignments, coursework tasks, and practica
 6. **[Tuples and Sets.ipynb](Tuples%20and%20Sets.ipynb)**: Tuple immutability, packing, unpacking, methods; Set creation, uniqueness, modification, and mathematical set operations (union, intersection, difference).
 7. **[Dictionary Tasks.ipynb](Dictionary%20Tasks.ipynb)**: Dictionary methods, mutability, copy vs reference, and 10 practical tasks (grading, stock inventory, department classification, exam eligibility, and bank accounts).
 8. **[List Comprehension Tasks.ipynb](List%20Comprehension%20Tasks.ipynb)**: 17 list comprehension challenges covering filtering, transformations, conditionals, financial transactions, and multi-criteria queries.
-9. **[QR Code and OCR.ipynb](QR%20Code%20and%20OCR.ipynb)**: QR Code generation (`qrcode`), custom styling, dynamic UPI payment QR codes, and OCR image-to-text extraction pipeline with `pytesseract`.
-10. **Pre-existing Coursework Notebooks**:
+9. **Pre-existing Coursework Notebooks**:
     - `Conditional Statement.ipynb`
     - `Dictionary.ipynb`
     - `List Comprehension.ipynb`
